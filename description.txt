@@ -1,0 +1,21 @@
+Hells Gorge, is a Pit lying in hell, only you can uncover its dark and mysterious secrets.
+
+
+
+DEVS
+
+ ~ Cry0rc - Coder
+ ~ BRIPE - Amazing Spriter
+ ~ Rekstri - Amazing Spriter
+
+---------------------------------------------------------------------
+
+Update 1.0
+
+Core Released
+
+- 100 Items
+- 50 Enemies
+- 3 Bosses
+- 2 Mini-Bosses
+- And Hells Gorge (Biome)

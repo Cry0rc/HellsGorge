@@ -1,0 +1,7 @@
+author = Cry0rc
+version = 1.0
+displayName = HellsGorge
+hideCode = false
+hideResources = true
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, *.gitattributes, *.gitignore

@@ -1,0 +1,10 @@
+D:\jhoan24\Documents\My Games\Terraria\ModLoader\Mod Sources\CompleteOverhaul\bin\Debug\CompleteOverhaul.dll
+D:\jhoan24\Documents\My Games\Terraria\ModLoader\Mod Sources\CompleteOverhaul\bin\Debug\CompleteOverhaul.pdb
+D:\jhoan24\Documents\My Games\Terraria\ModLoader\Mod Sources\CompleteOverhaul\bin\Debug\Microsoft.Xna.Framework.dll
+D:\jhoan24\Documents\My Games\Terraria\ModLoader\Mod Sources\CompleteOverhaul\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\jhoan24\Documents\My Games\Terraria\ModLoader\Mod Sources\CompleteOverhaul\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\jhoan24\Documents\My Games\Terraria\ModLoader\Mod Sources\CompleteOverhaul\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+D:\jhoan24\Documents\My Games\Terraria\ModLoader\Mod Sources\CompleteOverhaul\bin\Debug\Terraria.exe
+D:\jhoan24\Documents\My Games\Terraria\ModLoader\Mod Sources\CompleteOverhaul\obj\Debug\CompleteOverhaul.csprojResolveAssemblyReference.cache
+D:\jhoan24\Documents\My Games\Terraria\ModLoader\Mod Sources\CompleteOverhaul\obj\Debug\CompleteOverhaul.dll
+D:\jhoan24\Documents\My Games\Terraria\ModLoader\Mod Sources\CompleteOverhaul\obj\Debug\CompleteOverhaul.pdb
